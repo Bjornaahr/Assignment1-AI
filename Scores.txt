@@ -1,0 +1,75 @@
+
+
+start_time = time.time() # Start time of prediction...
+Score SVM:  1.0
+Time to exectute SVM on iris: 0.001995563507080078 seconds
+
+[50]
+
+
+start_time = time.time() # Start time of prediction...
+Score randomForest:  0.9333333333333333
+Time to exectute randomForest on iris: 0.33773040771484375 seconds
+
+[51]
+
+
+start_time = time.time() # Start time of prediction...
+Score Logistic Regression:  0.9333333333333333
+Time to exectute logisticRegression on iris: 0.008976936340332031 seconds
+
+[52]
+
+
+...
+70000
+
+[53]
+
+
+start_time = time.time() # Start time of prediction...
+Score SVM:  0.9732
+Time to exectute SVM on mnist: 568.3030562400818 seconds
+
+[54]
+
+
+start_time = time.time() # Start time of prediction...
+Score randomForest:  0.9725
+Time to exectute randomForest on mnist: 190.40242767333984 seconds
+
+[55]
+
+
+start_time = time.time() # Start time of prediction...
+Score Logistic Regression:  0.9185
+Time to exectute logisticRegression on mnist: 95.9811806678772 seconds
+
+[56]
+
+
+...
+60000
+
+[57]
+
+
+start_time = time.time() # Start time of prediction...
+Score SVM:  0.5575
+Time to exectute SVM on cifar: 29210.34171485901 seconds
+
+[58]
+
+
+start_time = time.time() # Start time of prediction...
+Score randomForest:  0.4935
+Time to exectute randomForest on cifar: 923.9784092903137 seconds
+
+[59]
+
+
+start_time = time.time() # Start time of prediction...
+Score Logistic Regression:  0.3581
+Time to exectute logisticRegression on cifar: 239.50887036323547 seconds
+C:\Users\Bearm\Anaconda3\lib\site-packages\sklearn\linear_model\logistic.py:947: ConvergenceWarning: lbfgs failed to converge. Increase the number of iterations.
+  "of iterations.", ConvergenceWarning)
